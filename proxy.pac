@@ -1,4 +1,4 @@
 function FindProxyForURL(url, host)
 { 
-     return "SOCKS localhost:9100";
+     return "SOCKS localhost:9050";
 }
